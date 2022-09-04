@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-String_formatting-Octal_and_hexadecimal" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/String formatting/Octal and hexadecimal" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Simple Tic-Tac-Toe" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/String formatting/Octal and hexadecimal">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String formatting/Octal and hexadecimal/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String formatting/Octal and hexadecimal/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/String formatting/Octal and hexadecimal/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
